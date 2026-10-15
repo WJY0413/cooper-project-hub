@@ -1,0 +1,250 @@
+{
+  "snapshot_date": "2026-10-15",
+  "source_articles": 22,
+  "articles": [
+    {
+      "id": "01-01",
+      "section": 1,
+      "title": "专业设备渠道调研｜公开脱敏版",
+      "path": "docs/channel-research.md",
+      "source_revision": 39,
+      "mode": "redacted_methodology_derivative",
+      "download": null
+    },
+    {
+      "id": "01-02",
+      "section": 1,
+      "title": "渠道伙伴调研与推进｜脱敏案例 A",
+      "path": "docs/partner-review.md",
+      "source_revision": 5,
+      "mode": "redacted_methodology_derivative",
+      "download": null
+    },
+    {
+      "id": "01-03",
+      "section": 1,
+      "title": "会前企业背调 SOP｜脱敏案例 A",
+      "path": "docs/premeeting-research.md",
+      "source_revision": 14,
+      "mode": "redacted_methodology_derivative",
+      "download": null
+    },
+    {
+      "id": "01-04",
+      "section": 1,
+      "title": "渠道伙伴组织架构研究｜脱敏案例 A",
+      "path": "docs/partner-organization.md",
+      "source_revision": 2,
+      "mode": "redacted_methodology_derivative",
+      "download": null
+    },
+    {
+      "id": "01-05",
+      "section": 1,
+      "title": "北美专业设备组织研究｜脱敏案例 B",
+      "path": "docs/north-america-organization.md",
+      "source_revision": 9,
+      "mode": "redacted_methodology_derivative",
+      "download": null
+    },
+    {
+      "id": "01-06",
+      "section": 1,
+      "title": "欧洲区域组织研究｜脱敏案例 B",
+      "path": "docs/benelux-organization.md",
+      "source_revision": 6,
+      "mode": "redacted_methodology_derivative",
+      "download": null
+    },
+    {
+      "id": "01-07",
+      "section": 1,
+      "title": "澳洲区域组织研究｜脱敏案例 B",
+      "path": "docs/australia-organization.md",
+      "source_revision": 11,
+      "mode": "redacted_methodology_derivative",
+      "download": null
+    },
+    {
+      "id": "02-01",
+      "section": 2,
+      "title": "BD Email Workbench｜海外 BD 邮件自动化工作台",
+      "path": "docs/email-workbench.md",
+      "source_revision": 99,
+      "mode": "reviewed_snapshot",
+      "download": null
+    },
+    {
+      "id": "02-02",
+      "section": 2,
+      "title": "飞书邮箱回复智能提醒器｜Beta",
+      "path": "docs/mail-reply-monitor.md",
+      "source_revision": 16,
+      "mode": "reviewed_snapshot",
+      "download": "downloads/mail-reply-monitor-public.zip"
+    },
+    {
+      "id": "02-03",
+      "section": 2,
+      "title": "海外销售年中复盘｜空白模板",
+      "path": "docs/sales-review.md",
+      "source_revision": 9,
+      "mode": "blank_templates",
+      "download": null
+    },
+    {
+      "id": "03-01",
+      "section": 3,
+      "title": "Contact List Finder V2｜关键联系人研究",
+      "path": "docs/contact-finder-v2.md",
+      "source_revision": 7,
+      "mode": "reviewed_snapshot",
+      "download": "downloads/bd-list-to-contact-v2-public.zip"
+    },
+    {
+      "id": "03-02",
+      "section": 3,
+      "title": "LinkedIn People-Search Mining｜历史说明",
+      "path": "docs/linkedin-people-search.md",
+      "source_revision": 5,
+      "mode": "historical_document_attachment_missing",
+      "download": null
+    },
+    {
+      "id": "04-01",
+      "section": 4,
+      "title": "Codex 聊天记录与项目工作区恢复",
+      "path": "docs/codex-history-recovery.md",
+      "source_revision": 3,
+      "mode": "reviewed_snapshot",
+      "download": null
+    },
+    {
+      "id": "04-02",
+      "section": 4,
+      "title": "飞书登录误判排障与 lark-shared Skill",
+      "path": "docs/lark-auth-diagnosis.md",
+      "source_revision": 5,
+      "mode": "reviewed_snapshot",
+      "download": "downloads/lark-shared-public.zip"
+    },
+    {
+      "id": "04-03",
+      "section": 4,
+      "title": "飞书 CLI 登录与授权流程",
+      "path": "docs/lark-authorization.md",
+      "source_revision": 12,
+      "mode": "reviewed_snapshot",
+      "download": null
+    },
+    {
+      "id": "05-01",
+      "section": 5,
+      "title": "公司挖掘｜使用说明与独立包",
+      "path": "docs/company-discovery.md",
+      "source_revision": 5,
+      "mode": "reviewed_snapshot",
+      "download": "downloads/01-company-discovery.zip"
+    },
+    {
+      "id": "05-02",
+      "section": 5,
+      "title": "公司评级｜使用说明与独立包",
+      "path": "docs/company-rating.md",
+      "source_revision": 5,
+      "mode": "reviewed_snapshot",
+      "download": "downloads/02-company-rating.zip"
+    },
+    {
+      "id": "05-03",
+      "section": 5,
+      "title": "联系人研究｜使用说明与独立包",
+      "path": "docs/contact-research.md",
+      "source_revision": 5,
+      "mode": "reviewed_snapshot",
+      "download": "downloads/03-contact-research.zip"
+    },
+    {
+      "id": "05-04",
+      "section": 5,
+      "title": "开发信｜使用说明与独立包",
+      "path": "docs/outreach-drafting.md",
+      "source_revision": 5,
+      "mode": "reviewed_snapshot",
+      "download": "downloads/04-outreach-drafting.zip"
+    },
+    {
+      "id": "05-05",
+      "section": 5,
+      "title": "LinkedIn｜使用说明与独立包",
+      "path": "docs/linkedin.md",
+      "source_revision": 5,
+      "mode": "reviewed_snapshot",
+      "download": "downloads/05-linkedin.zip"
+    },
+    {
+      "id": "05-06",
+      "section": 5,
+      "title": "会议纪要｜使用说明与独立包",
+      "path": "docs/meeting-records.md",
+      "source_revision": 5,
+      "mode": "reviewed_snapshot",
+      "download": "downloads/06-meeting-records.zip"
+    },
+    {
+      "id": "05-07",
+      "section": 5,
+      "title": "销售资料库自建 Skill｜三库与 Odoo",
+      "path": "docs/sales-library.md",
+      "source_revision": 5,
+      "mode": "reviewed_snapshot",
+      "download": "downloads/Sales-Library-Starter-20261015.zip"
+    }
+  ],
+  "supplemental_pages": [
+    "docs/workbench-releases.md"
+  ],
+  "sync_mode": "reviewed_public_snapshot_not_automatic",
+  "packages": [
+    {
+      "path": "downloads/01-company-discovery.zip",
+      "sha256": "ebdcac52f7dd555964eb61707587ef5e7148c7e3f903daa62f1a37a792fccec2"
+    },
+    {
+      "path": "downloads/02-company-rating.zip",
+      "sha256": "ee2ad0019e7489f95f36f053e8534c563928fb167d1b9fe07ad3f6c5b76ac797"
+    },
+    {
+      "path": "downloads/03-contact-research.zip",
+      "sha256": "14b89d308ea2db61b9d0bf8b160d2a81cdee481ba263619a1d77c36492a7fca3"
+    },
+    {
+      "path": "downloads/04-outreach-drafting.zip",
+      "sha256": "31121f939b827f947149c1e7b24e01ea570fa1dd8da3580c69af2644bc644a11"
+    },
+    {
+      "path": "downloads/05-linkedin.zip",
+      "sha256": "553714f3af7916e467c795d5fa475d1b31183b77062786654c871a422d5d6804"
+    },
+    {
+      "path": "downloads/06-meeting-records.zip",
+      "sha256": "1b7dc2b546aa0f9e6f48516a26e6a02764ae87d63ac849fbe5c9f1234dda30e7"
+    },
+    {
+      "path": "downloads/bd-list-to-contact-v2-public.zip",
+      "sha256": "66846be4520ad6394b81247c834375f454ef405a52e803cee4eaa080bf8e7836"
+    },
+    {
+      "path": "downloads/lark-shared-public.zip",
+      "sha256": "11ff2735cc23929602ba46994380e34efba4296c7b6109b41b9138fb12fd166c"
+    },
+    {
+      "path": "downloads/mail-reply-monitor-public.zip",
+      "sha256": "9115871ecda9b371a50225ac0b2e61680eedc5efeaeb1cfe468310a0c42d6ecd"
+    },
+    {
+      "path": "downloads/Sales-Library-Starter-20261015.zip",
+      "sha256": "07ee722a6edd7007c1842b05992cd0fa8da12da5555a5b12e2d506ed1dd0ee34"
+    }
+  ]
+}
